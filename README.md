@@ -1,2 +1,2 @@
-# dl_lecture
-딥러닝 워크샾
+# PSE 2021 Winter Workshop
+
